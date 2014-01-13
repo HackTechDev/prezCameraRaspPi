@@ -1,0 +1,86 @@
+<section>
+    Animation Studio
+</section>
+<section>
+1) Paquetage de base : 
+
+pi@framboisepi ~ $ sudo apt-get install -y libav-tools
+pi@framboisepi ~ $ sudo apt-get install -y python-imaging-tk
+</section>
+<section>
+3) Répertoire de travail :
+
+pi@framboisepi ~ $ mkdir STOPMOTION
+pi@framboisepi ~ $ cd STOPMOTION/
+</section>
+<section>
+4) Téléchargement : 
+
+https://drive.google.com/file/d/0B87aGq7vEpoFTkR6RmJDaGVqN2M/edit?usp=sharing
+</section>
+<section>
+5) Téléchargement des ressources : blankScreen.gif 
+
+https://docs.google.com/file/d/0B87aGq7vEpoFYTl6ZlAyWnBES0k/edit
+</section>
+<section>
+6) Lancement de l'application : 
+
+pi@framboisepi ~/STOPMOTION $ python ./AnimationStudio.py
+</section>
+<section>
+	Installation de Py-Mation
+</section>
+1) Mise-&agrave;-jour du système : 
+
+pi@framboisepi ~ $ sudo apt-get update && sudo apt-get upgrade
+</section>
+<section>
+2) Mise-&agrave;-jour du micro-logiciel : 
+
+pi@framboisepi ~ $ sudo rpi-update
+
+Redémarrer le RaspPi.
+</section>
+<section>
+3) Installation des dépendances : 
+
+- Outils d'installation pour Python : 
+
+pi@framboisepi ~ $ sudo apt-get install python-setuptools
+
+- Bibliothèque de gestion de la caméra en Python :
+
+pi@framboisepi ~ $ sudo easy_install picamera
+
+- Bibliothèque Pygame : 
+
+pi@framboisepi ~ $ sudo apt-get install python-pygame
+
+- Outils de gestion vidéo : 
+
+pi@framboisepi ~ $ sudo apt-get install libav-tools 
+</section>
+<section>
+4) Installation d'un lecteur vidéo : 
+
+pi@framboisepi ~ $ sudo apt-get install omxplayer
+</section>
+<section>
+5) Répertoire de travail : 
+
+pi@framboisepi ~ $ mkdir -p STOPMOTION/PIMATION
+pi@framboisepi ~ $ cd STOPMOTION/PIMATION/
+</section>
+<section>
+6) Téléchargement : 
+
+pi@framboisepi ~/STOPMOTION/PIMATION $ git clone https://github.com/russb78/pi-mation.git
+pi@framboisepi ~/STOPMOTION/PIMATION $ cd pi-mation/pi-mation/
+pi@framboisepi ~/STOPMOTION/PIMATION/pi-mation/pi-mation $ 
+</section>
+<section>
+7) Lancement de l'application : 
+
+pi@framboisepi ~/STOPMOTION/PIMATION/pi-mation/pi-mation $ python ./pi-mation.py
+</section>
