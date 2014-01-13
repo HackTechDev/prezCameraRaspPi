@@ -64,4 +64,5 @@
 	T&eacute;l&eacute;charger la vid&eacute;o : <a href="timelapse/timelapse.avi">timelapse.avi </a><br>
 	<br>
 	Youtube : <a href="http://www.youtube.com/watch?v=wKKJhv8fYqs">http://www.youtube.com/watch?v=wKKJhv8fYqs</a><br>
+    <iframe width="560" height="315" src="//www.youtube.com/embed/wKKJhv8fYqs" frameborder="0" allowfullscreen></iframe>
 </section>
