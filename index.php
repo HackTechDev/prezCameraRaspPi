@@ -37,6 +37,7 @@
 			<!-- Any section element inside of this container is displayed as a slide -->
 			<div class="slides">
                 <?php include('intro.inc.php'); ?>
+                <?php include('sommaire.inc.php'); ?>
                 <section>
                     <section>
                         <h3>I) Pr&eacute;sentation du module cam&eacute;ra</h3>
