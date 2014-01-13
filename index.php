@@ -52,7 +52,7 @@
 				<section>
 					<section>
                       <h3>III) Activation de la cam&eacute;ra</h3>
-                                        </section>
+                    </section>
 					<?php include('activation.inc.php'); ?>
 				</section>
 				<section>
@@ -64,20 +64,23 @@
 				<section>
 					<section>
                        <h3>V) Timelapse</h3>
-                                        </section>
+                    </section>
 					<?php include('timelapse.inc.php'); ?>
+                    <?php include('atelier_timelapse.inc.php'); ?>
 				</section>
 				<section>
 					<section>
                         <h3>VI) Diffusion</h3>
-                                        </section>
+                    </section>
 					<?php include('diffusion.inc.php'); ?>
+                    <?php include('atelier_diffusion.inc.php'); ?>
 				</section>
 				<section>
 					<section>
                           <h3>VII) Stop-motion</h3>
-                                        </section>
+                    </section>
 					<?php include('stopmotion.inc.php'); ?>
+                    <?php include('atelier_stopmotion.inc.php'); ?>
 				</section>
 
 				<?php include('end.inc.php'); ?>
