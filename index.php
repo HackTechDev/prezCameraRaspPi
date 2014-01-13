@@ -113,6 +113,7 @@
 						{ src: 'plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } }
 					]
 				});
+            Reveal.configure({ slideNumber: true });
 
 			</script>
 
