@@ -64,5 +64,11 @@
 	T&eacute;l&eacute;charger la vid&eacute;o : <a href="timelapse/timelapse.avi">timelapse.avi </a><br>
 	<br>
 	Youtube : <a href="http://www.youtube.com/watch?v=wKKJhv8fYqs">http://www.youtube.com/watch?v=wKKJhv8fYqs</a><br>
-    <iframe width="560" height="315" src="//www.youtube.com/embed/wKKJhv8fYqs" frameborder="0" allowfullscreen></iframe>
+<br>
+<video width="640" height="480" controls="controls" poster="videos/timelapse.jpg" preload="">
+<source src="videos/timelapse.ogv"  type="video/ogg" />
+<source src="videos/timelapse.webm" type="video/webm" />
+<source src="videos/timelapse.mp4"  type="video/mp4" />
+Sorry, your browser does not support HTML5 video
+</video>
 </section>
