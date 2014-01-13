@@ -36,39 +36,45 @@
 
 			<!-- Any section element inside of this container is displayed as a slide -->
 			<div class="slides">
+                <section>
+                    <section>
+                        <h3>I) Pr&eacute;sentation du module cam&eacute;ra</h3>
+                    </section>
+                    <?php include('presentation.inc.php'); ?>
+                </section>
 				<section>
 					<section>
-						<h3>I) Installation de la cam&eacute;ra</h3>
+						<h3>II) Installation de la cam&eacute;ra</h3>
 					</section>
 					<?php include('installation.inc.php'); ?>
 				</section>
 				<section>
 					<section>
-                                                <h3>II) Activation de la cam&eacute;ra</h3>
+                      <h3>III) Activation de la cam&eacute;ra</h3>
                                         </section>
 					<?php include('activation.inc.php'); ?>
 				</section>
 				<section>
 					<section>
-						<h3>III) Test de la cam&eacute;ra</h3>
+						<h3>IV) Test de la cam&eacute;ra</h3>
 					</section>
 					<?php include('test.inc.php'); ?>
 				</section>
 				<section>
 					<section>
-                                                <h3>IV) Timelapse</h3>
+                       <h3>V) Timelapse</h3>
                                         </section>
 					<?php include('timelapse.inc.php'); ?>
 				</section>
 				<section>
 					<section>
-                                                <h3>V) Diffusion</h3>
+                        <h3>VI) Diffusion</h3>
                                         </section>
 					<?php include('diffusion.inc.php'); ?>
 				</section>
 				<section>
 					<section>
-                                                <h3>VI) Stop-motion</h3>
+                          <h3>VII) Stop-motion</h3>
                                         </section>
 					<?php include('stopmotion.inc.php'); ?>
 				</section>
