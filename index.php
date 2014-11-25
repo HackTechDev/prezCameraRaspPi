@@ -124,7 +124,7 @@
 
 			<div style="display: block; position: absolute; bottom: 14px; left: 50%; margin-left: -230px; z-index: 20;" class="share-reveal">
 				<p style="font-size: 14px">
-					<a href="http://framboisepi.fr">http://framboisepi.fr</a> | <a href="http://www.graoulab.org/">GraouLAB</a>, le 16/01/14 : Pr&eacute;sentation et atelier sur le module cam&eacute;ra du Raspberry Pi fait avec <a href="http://lab.hakim.se/reveal-js">reveal-js</a>
+					<a href="http://framboisepi.fr">http://framboisepi.fr</a> | <a href="http://www.eurodns.com/">Eurodns BBL</a>, le 27/11/14 : Pr&eacute;sentation et atelier sur le module cam&eacute;ra du Raspberry Pi fait avec <a href="http://lab.hakim.se/reveal-js">reveal-js</a>
 				</p>
 			</div>
 
