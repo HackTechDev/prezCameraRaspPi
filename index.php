@@ -65,6 +65,7 @@
 				<section>
 					<section>
                        <h3>V) Timelapse</h3>
+                        <p>Temps accéléré</p>
                     </section>
 					<?php include('timelapse.inc.php'); ?>
                     <?php include('atelier_timelapse.inc.php'); ?>
@@ -79,6 +80,9 @@
 				<section>
 					<section>
                           <h3>VII) Stop-motion</h3>
+                            <p>
+                        Animation en volume ou animation image par image
+                            </p>
                     </section>
 					<?php include('stopmotion.inc.php'); ?>
                     <?php include('atelier_stopmotion.inc.php'); ?>
